@@ -1,0 +1,23 @@
+[
+  {
+    "href": "rooms",
+    "img": "first-class.jpg",
+    "title": "First Class Room",
+    "rate": 220,
+    "content": "Cras dui sapien, feugiat vitae tristique ut, lobortis tempor orci. Donec pulvinar sagittis metus ut tristique. Pellentes que habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas idios."
+  },
+  {
+    "href": "rooms",
+    "img": "deluxe.jpg",
+    "title": "Deluxe Room",
+    "rate": 150,
+    "content": "Sed et augue lorem. In sit amet placerat arcu. Mauris volutpat ipsum ac justo mollis vel vestibulum orci gravida. Vestibulum sit amet porttitor odio. Nulla facilisi. Fusce at pretium felis."
+  },
+  {
+    "href": "rooms",
+    "img": "suite.jpg",
+    "title": "Suite Room",
+    "rate": 180,
+    "content": "Sed et augue lorem. In sit amet placerat arcu. Mauris volutpat ipsum ac justo mollis vel vestibulum orci gravida. Vestibulum sit amet porttitor odio. Nulla facilisi. Fusce at pretium felis."
+  }
+]
